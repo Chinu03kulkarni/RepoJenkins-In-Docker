@@ -1,0 +1,4 @@
+# Created at 2022-01-10T17:17:39.852
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Docker Testing\Java-jenkis-in-docker\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
